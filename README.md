@@ -1,7 +1,7 @@
 # merhaba.
 
 * lives in Neuwied 🇩🇪 from 🇹🇷
-* full-stack development student at DCI
+* full-stack development student at [DCI](https://digitalcareerinstitute.org)
 * currently open for a new job opportunity
 * I use daily: `.html`, `.css`, `.scss`, `.js`, `.jsx`, `.md`
 
