@@ -1,5 +1,5 @@
 * lives in Neuwied 🇩🇪 from 🇹🇷
-* I use daily: `.html`, `.css`, `.js`, `.jsx`, `.scss`, `tailwindcss`, `git`
+* I use daily: `.html`, `.css`, `.js`, `.jsx`, `.scss`, `tailwindcss`, `bootstrap`, `wordpress`, `git`, `figma`
 * I’m currently learning: `js`, `react`, `node`, `express`, `mongodb`
 * find out more at [info@mkambur.com](mailto:info@mkambur.com) | [linkedin](https://linkedin.com/in/mkambur) | [twitter](https://twitter.com/mkambur_) | [website](https://mkambur.com)
 
