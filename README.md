@@ -14,15 +14,14 @@
   <span>I’m currently learning TypeScript, Node.js, Express.js and MongoDB.</span>
 </div>
 
-<!-- LANGUAGES & TOOLS -->
-<h3 align="center">Tools, langs & frameworks</h3>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,react,typescript,mongodb,express,nodejs,wordpress,php,git&=8&theme=dark" alt="Muhammed used tools, languages and frameworks." height="34rem"/>
-</div>
-
 <!-- GITHUB STATS -->
-<h3 align="center">Muhammed Kamburs's GitHub Stats</h3>
+<!-- <h3 align="center">GitHub stats</h3> -->
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mkamburdev&show_icons=true&theme=dark&locale=en&hide_border=true&hide_title=true&bg_color=00000000&hide=contribs" alt="Muhammed's Github activity" />
 </div>
 
+<!-- LANGUAGES & TOOLS -->
+<!-- <h3 align="center">Tools, langs & frameworks</h3> -->
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass,js,react,typescript,mongodb,express,nodejs,wordpress,php,git&=8&theme=dark" alt="Muhammed used tools, languages and frameworks." height="34rem"/>
+</div>
