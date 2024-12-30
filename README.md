@@ -12,7 +12,7 @@ Currently, I’m interning at [Digital Career Institute](https://digitalcareerin
 
 - **Frontend** `JavaScript`, `TypeScript`, `React`, `Redux`, `Sass`, `TailwindCSS` <br>
 - **Backend** `Node.js`, `Express.js`, `MongoDB`<br>
-- **Technologies** `Git`, `npm`, `Figma`, `Linux`,`WordPress`
+- **Others** `Git`, `npm`, `Figma`, `Linux`,`WordPress`
 
 <details>
     <summary>More</summary>
