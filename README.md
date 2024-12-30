@@ -8,7 +8,7 @@
 
 Hi, I'm Muhammed 👋, a passionate and versatile Web Developer with prior experience in the IT world, who recently enhanced my skills by completing an intensive study program in Germany.
 
-Currently, I'm interning at [Digital Career Institute](https://digitalcareerinstitute.org/), where I’m contributing to a MERN stack project that I developed during my Weiterbildung training. This project has been recognized by DCI, and I’m working on enhancing its features, optimizing performance, and improving user experience.
+Currently, I’m interning at [Digital Career Institute](https://digitalcareerinstitute.org/), where I’m working on the [Fellow Program](https://github.com/DCI-Fellow-Program), a MERN stack project I developed during my Weiterbildung training. I am focused on enhancing its features, optimizing performance, and improving the overall user experience.
 
 - **Frontend** `JavaScript`, `TypeScript`, `React`, `Redux`, `Sass`, `TailwindCSS` <br>
 - **Backend** `Node.js`, `Express.js`, `MongoDB`<br>
